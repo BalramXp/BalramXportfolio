@@ -297,7 +297,7 @@ background-color: #c86767;
 .connect{
     margin-top: 100px;
     height: auto;
-    width:60%;
+    width:100%;
     /* background-color: #e69393; */
     border-radius: 25px;
     border:solid  2px  rgb(216, 185, 145);
@@ -388,4 +388,5 @@ background-color: #c86767;
         padding: 20px;
     }
 }
+
 
